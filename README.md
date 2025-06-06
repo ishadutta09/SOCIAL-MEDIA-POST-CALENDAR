@@ -12,7 +12,7 @@
 
 **MENTOR NAME**: NEELA SANTHOSH 
 
-This task involved creating a detailed, 30-day social media content calendar for "Bloom & Brew," a fictional cozy cafe specializing in artisanal coffee and fresh floral arrangements. The primary goal was to develop a comprehensive, actionable plan that could be easily implemented and managed using spreadsheet software like Excel or Google Sheets.
+This task involved creating a detailed, 30-day social media content calendar for "Bloom & Brew," a cozy cafe specializing in artisanal coffee and fresh floral arrangements. The primary goal was to develop a comprehensive, actionable plan that could be easily implemented and managed using spreadsheet software like Excel or Google Sheets.
 
 The core deliverable was a meticulously structured table outlining daily social media posts. Each entry in the calendar included essential elements for effective social media management:
 
@@ -40,7 +40,7 @@ The core deliverable was a meticulously structured table outlining daily social 
 
 **Visual Assets Link**: A direct link to where the image or video file is stored (e.g., Google Drive, Dropbox), ensuring easy access for the person managing the social media.
 
-The calendar was designed with ease of use in mind, allowing the user to simply copy and paste the provided table into Excel or Google Sheets. This practical approach streamlines content planning, helping "Bloom & Brew" maintain a consistent and engaging online presence. The choice of a cafe and florist brand allowed for a rich variety of content themes, blending visually appealing elements with informative and interactive posts across both coffee and floral offerings. This structured, detailed content strategy is intended to foster community engagement, build brand awareness, and ultimately drive business objectives.
+The calendar was designed with ease of use in mind, allowing the user to simply copy and paste the provided details to the right platform at a right time to manage and track the business. This practical approach streamlines content planning, helping "Bloom & Brew" maintain a consistent and engaging online presence. The choice of a cafe and florist brand allowed for a rich variety of content themes, blending visually appealing elements with informative and interactive posts across both coffee and floral offerings. This structured, detailed content strategy is intended to foster community engagement, build brand awareness, and ultimately drive business objectives.
 
 
 # OUTPUT OF THE TASK
